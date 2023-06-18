@@ -12,11 +12,11 @@
 
 ## UI/UX
 
-<a href=""  target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.png" width="100"></a>
+<a href="https://dribbble.com/shots/16293251-AnimToys-App"  target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.png" width="100"></a>
 
 ## Youtube
 
-<a href="" target='_blank'>
+<a href="https://youtu.be/Mm_0TwZipHM" target='_blank'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/200px-YouTube_Logo_2017.svg.png" width="100"></a>
 
 ## Preview
