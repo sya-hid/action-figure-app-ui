@@ -31,3 +31,4 @@
 <img src="assets/previews/Screenshot_1686225443.png" width="200">
 <img src="assets/previews/Screenshot_1686225448.png" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.action-figure-app-ui"/>  
